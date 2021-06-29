@@ -10,6 +10,8 @@ The analysis included 1369 Theater campaigns. outcomes analysis revealed that pl
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](\resources\Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
