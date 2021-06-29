@@ -9,8 +9,15 @@ The purpose of this project is to perform analysis on Kickstarter data to uncove
 The analysis included 1369 Theater campaigns. outcomes analysis revealed that play campaigns launched in May and June have higher successful outcomes. 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+
+
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](\resources\Outcomes_vs_Goals.png)
+
+![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
+
+
+
 
 
 ### Challenges and Difficulties Encountered
